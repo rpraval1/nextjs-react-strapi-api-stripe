@@ -1,0 +1,30 @@
+{
+  "name": "frontend-strapi-deliveroo",
+  "version": "1.0.0",
+  "description": "frontend-strapi-deliveroo",
+  "bugs": {
+    "url": "https://github.com/rpraval1/strapi-deliveroo"
+  },
+  "author": "Pravallika Rikhala",
+  "homepage": "https://github.com/rpraval1/strapi-deliveroo#readme",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpraval1/strapi-deliveroo.git"
+  },
+  "keywords": [
+    "react",
+    "strapi",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
