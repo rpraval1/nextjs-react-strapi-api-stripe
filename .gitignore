@@ -4,7 +4,4 @@ node_modules
 .vscode
 typings
 
-CIBSConnector.html
-CIBSBillingAccount.js
-
-cibs
+.next
