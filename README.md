@@ -1,6 +1,6 @@
-# strapi-deliveroo
+# next-react-strapi-api-mysql-stripe
 
-### Table of contents
+### Table of contents 
 
 #### 🏗️ Setup (part 1)
 #### 🏠 Restaurants (part 2)
