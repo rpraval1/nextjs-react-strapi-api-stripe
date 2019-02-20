@@ -1,6 +1,6 @@
 # next-react-strapi-api-mysql-stripe 
 
-### Table of contents [Blog for reference](https://blog.strapi.io/strapi-next-setup/)
+### Table of contents ( [Blog for reference](https://blog.strapi.io/strapi-next-setup/) )
 
 #### 🏗️ Setup (part 1)
 #### 🏠 Restaurants (part 2)
