@@ -1,8 +1,8 @@
 {
   "connection": "default",
-  "collectionName": "",
+  "collectionName": "dishes",
   "info": {
-    "name": "restaurant",
+    "name": "dish",
     "description": ""
   },
   "options": {
@@ -25,9 +25,13 @@
       "plugin": "upload",
       "required": false
     },
-    "dishes": {
-      "collection": "dish",
-      "via": "restaurant"
+    "price": {
+      "default": "",
+      "type": "integer"
+    },
+    "restaurant": {
+      "model": "restaurant",
+      "via": "dishes"
     }
   }
 }

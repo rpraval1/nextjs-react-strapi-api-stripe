@@ -261,6 +261,7 @@ module.exports = {
           query: {
             value: {
               ...this.convertToParams(_.omit(_options, 'where')),
+              ..._options,
               ..._options.where,
               // Avoid population.
               _populate: model.associations.filter(a => !a.dominant && _.isEmpty(a.model)).map(a => a.alias),

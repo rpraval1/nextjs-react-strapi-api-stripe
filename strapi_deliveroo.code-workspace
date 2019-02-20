@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/rajputs/Projects/BillingApplications/payment-gateway/HPP/dev/uscis"
 		}
 	]
 }
