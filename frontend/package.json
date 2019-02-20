@@ -27,12 +27,15 @@
     "express": "^4.16.4",
     "gql": "^1.1.2",
     "graphql": "^14.1.1",
+    "js-cookie": "^2.2.0",
+    "jwt-decode": "^2.2.0",
     "next": "^8.0.1",
     "next-apollo": "2.0.1",
     "react": "^16.8.1",
     "react-apollo": "^2.4.1",
     "react-dom": "^16.8.1",
     "reactstrap": "^7.1.0",
-    "recompose": "^0.30.0"
+    "recompose": "^0.30.0",
+    "strapi-sdk-javascript": "^0.3.1"
   }
 }
