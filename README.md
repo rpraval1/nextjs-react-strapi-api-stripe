@@ -8,4 +8,4 @@
 #### 🔐 Authentication (part 4)
 #### 🛒 Shopping Cart (part 5)
 #### 💵 Order and Checkout (part 6)
-#### 🚀 Bonus: Deploy (part 7) - current
+#### 🚀 Deploy (part 7)
