@@ -23,6 +23,8 @@
     "start": "NODE_ENV=production node server.js"
   },
   "dependencies": {
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-styled-components": "^1.10.0",
     "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "gql": "^1.1.2",
@@ -34,6 +36,7 @@
     "react": "^16.8.1",
     "react-apollo": "^2.4.1",
     "react-dom": "^16.8.1",
+    "react-stripe-elements": "^2.0.3",
     "reactstrap": "^7.1.0",
     "recompose": "^0.30.0",
     "strapi-sdk-javascript": "^0.3.1"

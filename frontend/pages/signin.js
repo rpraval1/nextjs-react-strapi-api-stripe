@@ -1,8 +1,8 @@
 /* /pages/signin.js */ 
 import React from "react";
 
-import defaultPage from "../components/hocs/defaultPage";
-import { strapiLogin } from "../lib/auth";
+import defaultPage from "hocs/defaultPage";
+import { strapiLogin } from "lib/auth";
 
 import Router from "next/router";
 import {

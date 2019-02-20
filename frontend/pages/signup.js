@@ -1,7 +1,7 @@
 /* /pages/signup.js */ 
 
 import React from "react";
-import { strapiRegister } from "../lib/auth";
+import { strapiRegister } from "lib/auth";
 
 import Router from "next/router";
 import {
